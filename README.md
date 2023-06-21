@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=10000&pause=1000&color=FFFFFF&background=FFFFFF00&width=150&lines=Hi%2C+there%F0%9F%91%8B" alt="Typing SVG" /></a>
+ </div>
+ 
+<div align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300px"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GOOGLI4CH&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <!--
 **GOOGLI4CH/GOOGLI4CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
